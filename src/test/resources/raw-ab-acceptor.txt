@@ -1,0 +1,14 @@
+// This is a comment line
+// This is the language
+X = {a, b}
+// These are the possible states
+Z = {z0, z1}
+// This is the state-to-state function
+(a, z0) => z1
+(b, z0) => z0
+(a, z1) => z1
+(b, z0) => z0
+// This is the start state
+z_{0} = z0
+// This is the end state
+z_{E} = z1
