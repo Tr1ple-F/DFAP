@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DFAP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DFAP_jar</output-path>
+    <root id="archive" name="DFAP.jar">
+      <element id="module-output" name="DFAP" />
+    </root>
+  </artifact>
+</component>
